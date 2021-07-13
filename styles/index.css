@@ -1,0 +1,19 @@
+
+body {
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+
+#profile_pic {
+	padding-top: 30px;
+}
+
+a.quiet:link, a.quiet:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+a.quiet:hover, a.quiet:active {
+	color: #337ab7;
+	text-decoration: none;
+}
