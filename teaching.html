@@ -65,22 +65,185 @@
 		<br>
 		<p><span class="text-muted"><span class="text-muted"> <em>CE/Lecturer, Natural Language Processing (FIT5217, 2022, 2023). Syllabus: </em><br /></span></span></p>
 <ul>
-<li style="list-style-type: none;">
-<ul>
-<li>Week 1 Introduction to Natural Language Processing</li>
-<li>Week 2 Language Modelling</li>
-<li>Week 3 Sequence Labelling</li>
-<li>Week 4 Syntactic Parsing</li>
-<li>Week 5 Lexical Semantics</li>
-<li>Week 6 Linear Text Classification</li>
-<li>Week 7 Neural Networks and Neural Language Models</li>
-<li>Week 8 Neural Machine Translation</li>
-<li>Week 9 Distributional Representations</li>
-<li>Week 10 Transformer Language Models, Impacts and Implications (GPTs, ChatGPT, and friends)</li>
-<li>Week 11 Speech Recognition and Translation</li>
-<li>Week 12 Advanced Topics in Large Language Models (RLHF, Prompt Engineering, Instruction Tuning)</li>
-</ul>
-</li>
+	<li><strong><span style="font-family:tahoma,sans-serif">Week 1 Introduction to Natural Language Processing</span></strong></li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 2 Language Modelling</strong></span>
+	<ul>
+		<li>What is a language model?</li>
+		<li>Context Length</li>
+		<li>The Chain Rule of probability</li>
+		<li>n-gram language models</li>
+		<li>Data sparsity issues</li>
+		<li>Smoothed n-grams
+		<ul>
+			<li>Add-k</li>
+			<li>Kneser-Ney (not examinable)</li>
+			<li>Stupid Backoff</li>
+		</ul>
+		</li>
+		<li>Evaluating model performance</li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 3 Sequence Labelling</strong></span>
+	<ul>
+		<li>Word categories</li>
+		<li>Part-of-Speech (POS) Tagging</li>
+		<li>Other Sequence Labelling Problems</li>
+		<li>Hidden Markov Model (HMM)</li>
+		<li>Observation Likelihood</li>
+		<li>Most Likely State Sequence</li>
+		<li>Supervised Learning of HMM</li>
+		<li>Evaluation</li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 4 Syntactic Parsing</strong></span>
+	<ul>
+		<li>Syntax</li>
+		<li>Syntactic Parsing</li>
+		<li>CKY Parsing</li>
+		<li>Limitations of Context Free Grammars
+		<ul>
+			<li>Statistical Parsing</li>
+			<li>Probabilistic CKY Parsing</li>
+		</ul>
+		</li>
+		<li>PCFG Training</li>
+		<li>Limitations of PCFGs</li>
+		<li>Treebanks</li>
+		<li>Evaluating model performance</li>
+		<li>Alternative Formalisms</li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 5&nbsp;Lexical Semantics&nbsp;</strong></span>
+	<ul>
+		<li>Word Sense disambiguation
+		<ul>
+			<li>Word Senses</li>
+			<li>WordNet</li>
+			<li>Learn WSD</li>
+			<li>Evaluation</li>
+		</ul>
+		</li>
+		<li>Coreference resolution
+		<ul>
+			<li>Coreference</li>
+			<li>Coreference Models</li>
+			<li>Evaluation</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 6&nbsp;Linear Text Classification</strong></span>
+	<ul>
+		<li>Text classification</li>
+		<li>Classification methods</li>
+		<li>Na&iuml;ve Bayes Model</li>
+		<li>Logistic Regression Model</li>
+		<li>Evaluation</li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 7 Neural Networks and Neural Language Models&nbsp;</strong></span>
+	<ul>
+		<li>Introduction to Neural Networks</li>
+		<li>The challenge of statistical language modelling</li>
+		<li>Neural n-gram language models</li>
+		<li>Recurrent language models</li>
+		<li>A few key papers (not examinable)</li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 8 Neural Machine Translation</strong></span>
+	<ul>
+		<li><span style="font-family:tahoma,sans-serif">Machine Translation</span></li>
+		<li><span style="font-family:tahoma,sans-serif">Decoding Algorithms</span></li>
+		<li><span style="font-family:tahoma,sans-serif">Sequence-to-Sequence Models</span></li>
+		<li><span style="font-family:tahoma,sans-serif">Attention Mechanism</span></li>
+		<li><span style="font-family:tahoma,sans-serif">Evaluation of MT systems</span></li>
+		<li><span style="font-family:tahoma,sans-serif">Examples of other Encoder-Decoder tasks</span></li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 9 Distributional Representations</strong></span>
+	<ul>
+		<li>Meaning and Lexical Semantics</li>
+		<li>Vector Semantics</li>
+		<li>Count-based Distributed Representations (tf-id, PMI)</li>
+		<li>Sparse vs. Dense Representation (SVD/PCA)</li>
+		<li>Word Embeddings (Word2Vec, GloVe, fastText)</li>
+		<li>Contextualized Word Embeddings (ELMo, BERT)</li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 10 Transformers and Pretrained Models</strong></span>
+	<ul>
+		<li><span style="font-family:tahoma,sans-serif">Transformers (in details)</span></li>
+		<li><span style="font-family:tahoma,sans-serif">Pretrained Large Language Models</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">Encoders</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Decoders</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Encoder-Decoder</span></li>
+		</ul>
+		</li>
+		<li><span style="font-family:tahoma,sans-serif">Parameter-efficient Finetuning Methods</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">Adapters</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Prefix-Tuning</span></li>
+			<li><span style="font-family:tahoma,sans-serif">LoRA</span></li>
+		</ul>
+		</li>
+		<li><span style="font-family:tahoma,sans-serif">Limitations, ethics, biases, environment</span></li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 11 Speech Recognition and Translation</strong></span>
+	<ul>
+		<li>Speech Processing Tasks</li>
+		<li><span style="font-family:tahoma,sans-serif">Automatic Speech Recognition</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">Model Design</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Evaluation Metrics</span></li>
+		</ul>
+		</li>
+		<li><span style="font-family:tahoma,sans-serif">Speech Translation</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">Model Design</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Evaluation Metrics</span></li>
+		</ul>
+		</li>
+		<li><span style="font-family:tahoma,sans-serif">Pre-trained Speech Transformers</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">Wav2vec 2</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Whisper Speech Encoder</span></li>
+		</ul>
+		</li>
+		<li><span style="font-family:tahoma,sans-serif">SUPERB Evaluation Benchmark</span></li>
+	</ul>
+	</li>
+	<li><span style="font-family:tahoma,sans-serif"><strong>Week 12 &nbsp;Advanced Topics in Large Language Models</strong></span>
+	<ul>
+		<li><span style="font-family:tahoma,sans-serif">Prompting</span></li>
+		<li><span style="font-family:tahoma,sans-serif">In-context zero- or few-shot prompting</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">Emergent in-context abilities</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Chain-of-thought Prompting</span></li>
+		</ul>
+		</li>
+		<li><span style="font-family:tahoma,sans-serif">Instruction-Tuning Large Language Models</span></li>
+		<li><span style="font-family:tahoma,sans-serif">Reinforcement Learning with Human Feedback for LLMs</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">Policy Gradient</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Reward Model to Rank</span></li>
+		</ul>
+		</li>
+		<li><span style="font-family:tahoma,sans-serif">A systematic limitation of LLMs</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">System 1 and System 2 Modes of Reasoning</span></li>
+		</ul>
+		</li>
+		<li><span style="font-family:tahoma,sans-serif">Latest Trends</span>
+		<ul>
+			<li><span style="font-family:tahoma,sans-serif">Alpaca family of models</span></li>
+			<li><span style="font-family:tahoma,sans-serif">LangChain</span></li>
+			<li><span style="font-family:tahoma,sans-serif">Multimodal Instruction Tuned LM</span></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
 </ul>
 <p><span class="text-muted"><em>CE/Lecturer, Data Analysis for Semi-structured Data (FIT5212, 2022, 2023). Syllabus:</em>
 <ul>
