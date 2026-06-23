@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Associate Professor in the Department of Computer Science at UCL and a member of the [UCL NLP group](https://nlp.cs.ucl.ac.uk/).
+Hello! I am an Associate Professor in the Department of Computer Science at UCL and a member of the [UCL NLP group](https://nlp.cs.ucl.ac.uk/). I work on predictive models for language (text and speech). In the more distant past, I worked on integrating nonparametric models and compressed data structures for predictive models on large volumes of text. More recently, I worked on multilingual NLP and Bayesian learning of neural models with their application in low-resource conditions. Since 2020 I have been working on various speech and text models in understanding, translation, and reasoning tasks. While in principle the solutions we investigate are agnostic to the underlying models, we leverage foundational large language models (for text and speech) as much as possible. We have also been investigating various shortcomings of foundation models.
 
-I work on predictive models for language (text and speech). In the more distant past, I worked on integrating nonparametric models and compressed data structures for predictive models on large volumes of text. More recently, I worked on multilingual NLP and Bayesian learning of neural models with their application in low-resource conditions. Since 2020 I have been working on various speech and text models in understanding, translation, and reasoning tasks. While in principle the solutions we investigate are agnostic to the underlying models, we leverage foundational large language models (for text and speech) as much as possible. We have also been investigating various shortcomings of foundation models.
-
+======
 Present and Past Research Areas
 ======
 
@@ -24,6 +23,7 @@ Present and Past Research Areas
 ☘ Bayesian learning and inference (e.g., applications in training with small data)
 </div>
 
+======
 News
 ======
 
