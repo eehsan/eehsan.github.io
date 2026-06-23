@@ -1,0 +1,46 @@
+Australian Government collaboration with Microsoft on artificial intelligence
+Media release
+Thursday 16 November 2023
+
+Prime Minister Anthony Albanese met with Microsoft Chairman and CEO Satya Nadella in San Francisco today in the margins of the APEC Economic Leaders Meeting.
+
+In the meeting, the Prime Minister announced the Australian Government's decision to explore the safe and responsible use of generative artificial intelligence (AI) in the public service in partnership with Microsoft, through the Digital Transformation Agency (DTA).
+
+This investment builds on the Albanese Government's commitment to invest in the tools and capabilities required to set Australians up for the jobs and opportunities of the future.
+
+The Government will conduct a six-month trial of Microsoft 365 Copilot, making it one of the first governments in the world to deploy generative AI service.
+
+Australian Public Service (APS) staff will be able to trial new ways to innovate and enhance productivity, with a view to delivering better government services for the Australian people. Microsoft will provide digital training to help APS staff to develop their AI skills and literacy.
+
+The six month trial will run from January to June 2024, with Microsoft providing training, onboarding and implementation assistance with participating agencies.
+
+This trial positions Australia as a leader in adopting artificial intelligence that increases productivity, and is functional and fit for purpose.
+
+Following the trial the DTA will evaluate their experience in order to assess opportunities, feedback, and report to the Government.
+
+This announcement follows the establishment of the AI Taskforce, led by the DTA and the Department of Industry, Science and Resources. The trial will be rolled out consistent with the AI Taskforce guidance for the public service on the use of generative AI.
+
+The Prime Minister recently announced Microsoft's $5 billion investment in Australia, alongside Microsoft executives during the recent official visit to Washington.
+
+That announcement included:
+
+A $5 billion investment to expand its hyperscale cloud computing and AI infrastructure over the next two years to grow its local data centre footprint from 20 to 29 sites in Sydney, Canberra and Melbourne.
+Opening a new Microsoft Data Centre Academy, in partnership with TAFE NSW, and a commitment to train an additional 300,000 Australians through its global skills program.
+Collaboration with the Australian Signals Directorate (ASD) on Microsoft-ASD Cyber Shield to improve joint capability to identify, prevent and respond to cyber threats.
+Microsoft's investment will help Australia become a world-leading digital economy by significantly investing in skills and training to help equip a new generation of Australians for the jobs and opportunities of the future.
+
+The Government is committed to leadership in the safe, ethical and responsible use of technology and data, and meeting the community's expectations on security, fairness and privacy.
+
+The Government is fostering an innovative culture in the public service and demonstrating high standards in transparency, risk management and governance of all emerging technologies.
+
+The DTA has also recently released a Request for Information on services and support for generative AI and will obtain information on generative AI solutions that could serve individual government organisations and government as a whole.
+
+Quotes attributable to the Prime Minister:
+"By strengthening our partnership with Microsoft, we are charting a course for the future of public service – one where generative AI is used responsibly to enhance the work of the APS in delivering for Australians without compromising on safety."
+
+Quotes attributable to the Minister for Finance:
+"AI is emerging as a widely used technology and presents many opportunities for government and the way it delivers crucial services to the Australian community, but we must adopt it in a safe and controlled way.
+
+"This exciting pilot will support the government's APS reform agenda by identifying how we can safely use this technology to improve our work and service delivery but do so in a way that is controlled and allows us to learn the lessons with minimal impact on existing processes and services."
+
+  URL: https://www.pm.gov.au/media/australian-government-collaboration-microsoft-artificial-intelligence

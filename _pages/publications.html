@@ -1,0 +1,58 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<style>
+.pub-entry { margin-bottom: 1.1em; line-height: 1.45; }
+.pub-title { font-weight: bold; }
+.pub-venue { font-style: italic; color: #555; }
+.pub-btn {
+  display: inline-block;
+  padding: 1px 7px;
+  margin: 2px 2px 2px 0;
+  font-size: 0.78em;
+  border-radius: 3px;
+  text-decoration: none !important;
+  color: #fff !important;
+  border: 0;
+  line-height: 1.5;
+}
+.pub-btn-pdf { background: #5cb85c; }
+.pub-btn-arxiv { background: #5cb85c; }
+.pub-btn-code { background: #d9534f; }
+.pub-btn-data { background: #f0ad4e; }
+.pub-btn-website { background: #d9534f; }
+.pub-btn-slides { background: #337ab7; }
+.pub-btn-model { background: #5bc0de; }
+.pub-btn-supp { background: #5bc0de; }
+.pub-award { color: #d4a017; font-weight: bold; }
+h2.pub-section { margin-top: 1.5em; font-family: "Papyrus", "Palatino", serif; }
+</style>
+
+{% for category in site.publication_category %}
+  {% assign title_shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.category != category[0] %}{% continue %}{% endif %}
+    {% unless title_shown %}
+      <h2 class="pub-section">{{ category[1].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    <div class="pub-entry">
+      <span class="pub-title">{{ post.title }}</span><br>
+      {{ post.authors }}<br>
+      {% if post.venue and post.venue != "" %}<span class="pub-venue">{{ post.venue }}</span>{% if post.year %}, {{ post.year }}{% endif %}<br>{% endif %}
+      {% if post.pdf %}<a class="pub-btn pub-btn-pdf" href="{{ post.pdf }}">pdf</a>{% endif %}
+      {% if post.arxiv %}<a class="pub-btn pub-btn-arxiv" href="{{ post.arxiv }}">arxiv</a>{% endif %}
+      {% if post.code %}<a class="pub-btn pub-btn-code" href="{{ post.code }}">code</a>{% endif %}
+      {% if post.data %}<a class="pub-btn pub-btn-data" href="{{ post.data }}">data</a>{% endif %}
+      {% if post.website %}<a class="pub-btn pub-btn-website" href="{{ post.website }}">website</a>{% endif %}
+      {% if post.slides %}<a class="pub-btn pub-btn-slides" href="{{ post.slides }}">slides</a>{% endif %}
+      {% if post.model %}<a class="pub-btn pub-btn-model" href="{{ post.model }}">model</a>{% endif %}
+      {% if post.supplementary %}<a class="pub-btn pub-btn-supp" href="{{ post.supplementary }}">supplementary</a>{% endif %}
+      {% if post.award %} <span class="pub-award">{{ post.award }}</span>{% endif %}
+    </div>
+  {% endfor %}
+{% endfor %}

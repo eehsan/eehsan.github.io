@@ -1,0 +1,11 @@
+# Header navigation for Ehsan Shareghi's site.
+
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "People"
+    url: /people/
+
+  - title: "Teaching"
+    url: /teaching/
