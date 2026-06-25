@@ -9,17 +9,17 @@ author_profile: true
 
 ### PhD
 
-* **Trang Pham** [2025–], Monash University (Co-Supervisor, with Yasmeen George) <br>
+* **Trang Pham** [2025–], Monash University (Co-Supervisor) <br>
  Trang works on *Diagnostic Reasoning*
-* **Ramya Keerthy Thatikonda** [2023–], Monash University (Main Supervisor, with Wray Buntine) <br>
+* **Ramya Keerthy Thatikonda** [2023–], Monash University (Main Supervisor) <br>
   Ramya works on *Logical Reasoning with LLMs*
-* [**Hao Yang**](https://yanghao97.github.io) [2023–], Monash University (Co-Supervisor, with Reza Haffari, Lizhen Qu) <br>
+* [**Hao Yang**](https://yanghao97.github.io) [2023–], Monash University (Co-Supervisor) <br>
   Hao works on *Safety of Multimodal Foundation Models*
-* **Minghan Wang** [2023–], Monash University (Co-Supervisor, with Reza Haffari, Trang Vu) <br>
+* **Minghan Wang** [2023–], Monash University (Co-Supervisor) <br>
   Minghan works on *Translation with LLMs*
-* [**Jiuzhou Han**](https://jiuzhouh.github.io) [2023–], Monash University (Main Supervisor, with Wray Buntine) <br>
+* [**Jiuzhou Han**](https://jiuzhouh.github.io) [2023–], Monash University (Main Supervisor) <br>
   Jiuzhou works on *Towards Enhancing Inference-Time Reliability of Large Language Models*
-* **Dongwon (Kelvin) Ryu** [2021–], Monash University (Main Supervisor, with Reza Haffari, Meng Fang) <br>
+* **Dongwon (Kelvin) Ryu** [2021–], Monash University (Main Supervisor) <br>
   Kelvin works on *Text-based interactive games*
 
 ### MSc
