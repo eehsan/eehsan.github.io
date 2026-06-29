@@ -8,7 +8,8 @@ author_profile: true
 ## Current
 
 ### PhD
-
+* **Hanwen Du** [Upcoming], UCL (Main Supervisor) <br>
+ Hanwen will work on *Reasoning and Inference Efficiency*
 * **Trang Pham** [2025–], Monash University (Co-Supervisor) <br>
  Trang works on *Diagnostic Reasoning*
 * **Ramya Keerthy Thatikonda** [2023–], Monash University (Main Supervisor) <br>
@@ -17,16 +18,14 @@ author_profile: true
   Hao works on *Safety of Multimodal Foundation Models*
 * **Minghan Wang** [2023–], Monash University (Co-Supervisor) <br>
   Minghan works on *Translation with LLMs*
-* [**Jiuzhou Han**](https://jiuzhouh.github.io) [2023–], Monash University (Main Supervisor) <br>
-  Jiuzhou works on *Towards Enhancing Inference-Time Reliability of Large Language Models*
 * **Dongwon (Kelvin) Ryu** [2021–], Monash University (Main Supervisor) <br>
   Kelvin works on *Text-based interactive games*
 
 ### MSc
 
-* **Niall Dalton** [2026–], UCL — *Mechanical and Algorithmic State of Reasoning*
-* **Piotr Wilam** [2026–], UCL — *Disentangling the Roles of Task, Language, and Model*
-* **Mikhail Kim** [2026–], UCL — *Composable Adapters*
+* **Niall Dalton** [2026], UCL — *Mechanical and Algorithmic State of Reasoning*
+* **Piotr Wilam** [2026], UCL — *Disentangling the Roles of Task, Language, and Model*
+* **Mikhail Kim** [2026], UCL — *Composable Adapters*
 
 ---
 
@@ -34,6 +33,8 @@ author_profile: true
 
 ### PhD
 
+* [**Jiuzhou Han**](https://jiuzhouh.github.io) [2026, Under Examination], Monash University (with [Wray Buntine](https://scholar.google.com/citations?user=h0EpYIkAAAAJ&hl=en)) <br>
+  *Thesis:* [Enhancing Inference-Time Reliability of Large Language Models](.)
 * **Yinhong Liu** [PhD, 2026], University of Cambridge (with [Nigel Collier](https://sites.google.com/site/nhcollier)) <br>
   *Thesis:* [Advancing Text Evaluation in the Era of LLMs: Toward Robust Metrics, Consistency, and Human Alignment](https://www.repository.cam.ac.uk/bitstreams/7d9a06ed-1ca3-432d-b963-0bae2709edd9/download)
 * **Yi Zhu** [PhD, 2025], University of Cambridge (with [Anna Korhonen](https://sites.google.com/site/annakorhonen/), [Ivan Vulić](https://sites.google.com/site/ivanvulic/)) → Research Scientist, RekaAI  <br>
