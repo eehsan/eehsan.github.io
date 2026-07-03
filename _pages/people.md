@@ -33,15 +33,15 @@ author_profile: true
 
 ### PhD
 
-* [**Jiuzhou Han**](https://jiuzhouh.github.io) [2026, Under Examination], Monash University (with [Wray Buntine](https://scholar.google.com/citations?user=h0EpYIkAAAAJ&hl=en)) <br>
+* **Jiuzhou Han** [2026, Under Examination], Monash University (with Wray Buntine) <br>
   *Thesis:* [Enhancing Inference-Time Reliability of Large Language Models](.)
-* **Yinhong Liu** [PhD, 2026], University of Cambridge (with [Nigel Collier](https://sites.google.com/site/nhcollier)) <br>
+* **Yinhong Liu** [PhD, 2026], University of Cambridge (with Nigel Collier) <br>
   *Thesis:* [Advancing Text Evaluation in the Era of LLMs: Toward Robust Metrics, Consistency, and Human Alignment](https://www.repository.cam.ac.uk/bitstreams/7d9a06ed-1ca3-432d-b963-0bae2709edd9/download)
-* **Yi Zhu** [PhD, 2025], University of Cambridge (with [Anna Korhonen](https://sites.google.com/site/annakorhonen/), [Ivan Vulić](https://sites.google.com/site/ivanvulic/)) → Research Scientist, RekaAI  <br>
+* **Yi Zhu** [PhD, 2025], University of Cambridge (with Anna Korhonen, Ivan Vulić) → Research Scientist, RekaAI  <br>
   *Thesis:* [Multi-Lingual Learning with Few Labels](https://www.repository.cam.ac.uk/handle/1810/402342)
-* **Jinming (Michelle) Zhao** [PhD, 2024], Monash University (with [Reza Haffari](https://users.monash.edu.au/~gholamrh/)) → Applied Scientist, Amazon AGI <br>
+* **Jinming (Michelle) Zhao** [PhD, 2024], Monash University (with Reza Haffari) → Applied Scientist, Amazon AGI <br>
   *Thesis:* [Advancing Data-Constrained Spoken Language Translation](https://bridges.monash.edu/articles/thesis/Advancing_Data-Constrained_Spoken_Language_Translation/29097632?file=54638156)
-* **Victor Prokhorov** [PhD, 2021], University of Cambridge (with [Nigel Collier](https://sites.google.com/site/nhcollier)) → Research Scientist, Huawei <br>
+* **Victor Prokhorov** [PhD, 2021], University of Cambridge (with Nigel Collier) → Research Scientist, Huawei <br>
   *Thesis:* [Injecting Inductive Biases into Distributed Representations of Text](https://www.repository.cam.ac.uk/handle/1810/330972)
 
 ### MSc and Honours
