@@ -1,7 +1,7 @@
 ---
 title: 'TRIDENT: Benchmarking LLM Safety in Finance, Medicine, and Law'
 collection: publications
-category: notes
+category: conferences
 permalink: /publication/2025-01-01-trident-benchmarking-llm-safety-in-finance-medicine-and-law
 date: 2025-01-01
 year: '2026'
