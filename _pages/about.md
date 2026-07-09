@@ -26,6 +26,7 @@ News
 ======
 
 <div style="line-height:1.8;">
+☘ Congratulations to Zack for his paper on LLM Safety accepted to COLM!<br>
 ☘ Excited to share that we are awarded an ARC Linkage to develop AI technology for Triage and Legal Issue Analysis in Community Legal Centres in Australia!<br>
 ☘ Congratulations to Jamie for his paper on testing LLMs on Linguistics Olympiad accepted to CoNLL!<br>
 ☘ Excited to be serving as a Senior Area Chair in EMNLP2026!<br>
