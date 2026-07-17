@@ -22,7 +22,8 @@ author_profile: true
   Kelvin works on *Text-based interactive games*
 
 ### MSc
-
+* **Xuanhao Gu** [2026], UCL — *Autoformalisation*
+* **Thang Vu** [2026], UCL — *Text-to-SQL Translation*
 * **Niall Dalton** [2026], UCL — *Mechanical and Algorithmic State of Reasoning*
 * **Piotr Wilam** [2026], UCL — *Disentangling the Roles of Task, Language, and Model*
 * **Mikhail Kim** [2026], UCL — *Composable Adapters*
