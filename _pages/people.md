@@ -50,7 +50,7 @@ author_profile: true
 * **Dhruv Anand** [MSc, 2025], Monash University <br>
   *Thesis:* [Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595)
 * **James Garnham** [Honours, 2025], Monash University <br>
-  *Thesis:* [Could language models win the International Linguistics Olympiad?](https://openreview.net/pdf?id=dioc2KgOKg)
+  *Thesis:* [Could language models win the International Linguistics Olympiad?](https://aclanthology.org/2026.conll-main.28/)
 * **Alan Tseng** [MSc, 2025], Monash University <br>
   *Thesis:* AI Evaluation Benchmarks for Australian Contract Law
 * **Jack Pham** [Honours, 2025], Monash University → PhD at Macquarie University <br>
@@ -59,7 +59,7 @@ author_profile: true
   *Thesis:* [One STEP at a time: Language Agents are Stepwise Planners](https://arxiv.org/abs/2411.08432)
   🏆 Winner of Monash Dux Award 2025
 * **Long Hei Matthew Lam** [MSc, 2024], Monash University → Applied Scientist, OpenStream AI <br>
-  *Thesis:* [A Closer Look at Logical Reasoning with LLMs: The Choice of Tool Matters](https://arxiv.org/abs/2406.00284)
+  *Thesis:* [A Closer Look at Logical Reasoning with LLMs: The Choice of Tool Matters](https://aclanthology.org/2024.alta-1.4/)
   🏆 Outstanding Paper Award at ALTA 2024
 * **Adrian Theuma** [MSc, 2023], Monash University <br>
   *Thesis:* [Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance](https://aclanthology.org/2024.eacl-short.10/)
@@ -74,6 +74,6 @@ author_profile: true
 * **Aiswarya Kaladharan** [MSc, 2020], University College London (UCL) <br>
   *Thesis:* Privacy Preserving Neural Representation for Speech Audio
 * **Lan Zhang** [MSc, 2020], University College London (UCL) → PhD at University of Manchester  <br>
-  *Thesis:* Understanding the Latent Space in Variational Autoencoders
+  *Thesis:* [Understanding the Latent Space in Variational Autoencoders](https://aclanthology.org/2021.repl4nlp-1.14/)
 * **Lei Yang** [MSc, 2020], University College London (UCL)  <br>
   *Thesis:* Generating Recipes with Deep Neural Models
