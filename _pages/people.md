@@ -8,15 +8,17 @@ author_profile: true
 ## Current
 
 ### PhD
-* **Trang Pham** [2025–], Monash University (Co-Supervisor) <br>
+* **Trang Pham** [2025–], Monash University <br>
  Trang works on *Diagnostic Reasoning*
-* **Ramya Keerthy Thatikonda** [2023–], Monash University (Main Supervisor) <br>
+* **Ramya Keerthy Thatikonda** [2023–], Monash University <br>
   Ramya works on *Logical Reasoning with LLMs*
-* [**Hao Yang**] [2023–], Monash University (Co-Supervisor) <br>
+* [**Hao Yang**] [2023–], Monash University <br>
   Hao works on *Safety of Multimodal Foundation Models*
-* **Minghan Wang** [Writing Thesis], Monash University (Co-Supervisor) <br>
+* **Minghan Wang** [Writing Thesis], Monash University <br>
   Minghan works on *Translation with LLMs*
-* **Dongwon (Kelvin) Ryu** [Writing Thesis], Monash University (Main Supervisor) <br>
+* **Jiuzhou Han** [Under Examination], Monash University <br>
+  *Thesis:* Enhancing Inference-Time Reliability of Large Language Models
+* **Dongwon (Kelvin) Ryu** [Writing Thesis], Monash University <br>
   Kelvin works on *Text-based interactive games*
 
 ### MSc
@@ -32,8 +34,6 @@ author_profile: true
 
 ### PhD
 
-* **Jiuzhou Han** [2026, Under Examination], Monash University (with Wray Buntine) <br>
-  *Thesis:* [Enhancing Inference-Time Reliability of Large Language Models](.)
 * **Yinhong Liu** [PhD, 2026], University of Cambridge (with Nigel Collier) <br>
   *Thesis:* [Advancing Text Evaluation in the Era of LLMs: Toward Robust Metrics, Consistency, and Human Alignment](https://www.repository.cam.ac.uk/bitstreams/7d9a06ed-1ca3-432d-b963-0bae2709edd9/download)
 * **Yi Zhu** [PhD, 2025], University of Cambridge (with Anna Korhonen, Ivan Vulić) → Research Scientist, RekaAI  <br>
