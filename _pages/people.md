@@ -8,17 +8,15 @@ author_profile: true
 ## Current
 
 ### PhD
-* **Hanwen Du** [Upcoming], UCL (Main Supervisor) <br>
- Hanwen will work on *Reasoning and Inference Efficiency*
 * **Trang Pham** [2025–], Monash University (Co-Supervisor) <br>
  Trang works on *Diagnostic Reasoning*
 * **Ramya Keerthy Thatikonda** [2023–], Monash University (Main Supervisor) <br>
   Ramya works on *Logical Reasoning with LLMs*
-* [**Hao Yang**](https://yanghao97.github.io) [2023–], Monash University (Co-Supervisor) <br>
+* [**Hao Yang**] [2023–], Monash University (Co-Supervisor) <br>
   Hao works on *Safety of Multimodal Foundation Models*
-* **Minghan Wang** [2023–], Monash University (Co-Supervisor) <br>
+* **Minghan Wang** [Writing Thesis], Monash University (Co-Supervisor) <br>
   Minghan works on *Translation with LLMs*
-* **Dongwon (Kelvin) Ryu** [2021–], Monash University (Main Supervisor) <br>
+* **Dongwon (Kelvin) Ryu** [Writing Thesis], Monash University (Main Supervisor) <br>
   Kelvin works on *Text-based interactive games*
 
 ### MSc
