@@ -14,7 +14,7 @@ author_profile: true
   Ramya works on *Logical Reasoning with LLMs*
 * [**Hao Yang**] [2023–], Monash University <br>
   Hao works on *Safety of Multimodal Foundation Models*
-* **Minghan Wang** [Writing Thesis], Monash University <br>
+* **Minghan Wang** [2023–], Monash University <br>
   Minghan works on *Translation with LLMs*
 * **Jiuzhou Han** [Under Examination], Monash University <br>
   *Thesis:* Enhancing Inference-Time Reliability of Large Language Models
