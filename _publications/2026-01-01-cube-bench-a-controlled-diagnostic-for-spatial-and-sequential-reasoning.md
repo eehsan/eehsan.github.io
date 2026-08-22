@@ -6,7 +6,7 @@ permalink: /publication/2026-01-01-cube-bench-a-controlled-diagnostic-for-spatia
 date: 2026-08-22
 year: '2026'
 authors: 'Dhruv Anand, Ehsan Shareghi'
-venue: 'Empirical Methods in Natural Language Processing (EMNLP 2026)'
+venue: 'Empirical Methods in Natural Language Processing (EMNLP)'
 pdf: 'https://arxiv.org/abs/2512.20595'
 paperurl: 'https://arxiv.org/abs/2512.20595'
 code: '.'
