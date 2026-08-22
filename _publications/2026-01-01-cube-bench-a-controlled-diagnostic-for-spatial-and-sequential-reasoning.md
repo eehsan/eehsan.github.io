@@ -1,7 +1,7 @@
 ---
 title: 'Cube Bench: A Controlled Diagnostic for Spatial and Sequential Reasoning in Multimodal Large Language Models'
 collection: publications
-category: selected
+category: conferences
 permalink: /publication/2026-01-01-cube-bench-a-controlled-diagnostic-for-spatial-and-sequential-reasoning
 date: 2026-08-22
 year: '2026'
