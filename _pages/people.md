@@ -10,11 +10,11 @@ author_profile: true
 ### PhD
 * **Trang Pham** [2025–], Monash University <br>
  Trang works on *Diagnostic Reasoning*
-* **Ramya Keerthy Thatikonda** [2023–], Monash University <br>
+* **Ramya Keerthy Thatikonda** [Writing Thesis], Monash University <br>
   Ramya works on *Logical Reasoning with LLMs*
-* [**Hao Yang**] [2023–], Monash University <br>
+* [**Hao Yang**] [Writing Thesis], Monash University <br>
   Hao works on *Safety of Multimodal Foundation Models*
-* **Minghan Wang** [2023–], Monash University <br>
+* **Minghan Wang** [Writing Thesis], Monash University <br>
   Minghan works on *Translation with LLMs*
 * **Jiuzhou Han** [Under Examination], Monash University <br>
   *Thesis:* Enhancing Inference-Time Reliability of Large Language Models
