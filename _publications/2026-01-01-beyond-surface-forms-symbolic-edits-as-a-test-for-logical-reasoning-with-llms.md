@@ -7,7 +7,7 @@ date: 2026-08-21
 year: '2026'
 authors: 'Ramya Keerthy Thatikonda, Wray Buntine, Ehsan Shareghi'
 venue: 'Empirical Methods in Natural Language Processing (Findings of EMNLP)'
-pdf: '.'
-paperurl: '.'
-code: '.'
+pdf: 'https://arxiv.org/pdf/2608.30256'
+paperurl: 'https://arxiv.org/pdf/2608.30256'
+code: 'https://github.com/RamyaKeerthy/BeyondSurfaceForms'
 ---
