@@ -21,13 +21,6 @@ author_profile: true
 * **Dongwon (Kelvin) Ryu** [Writing Thesis], Monash University <br>
   Kelvin works on *Text-based interactive games*
 
-### MSc
-* **Xuanhao Gu** [2026], UCL — *Autoformalisation*
-* **Thang Vu** [2026], UCL — *Text-to-SQL Translation*
-* **Niall Dalton** [2026], UCL — *Mechanical and Algorithmic State of Reasoning*
-* **Piotr Wilam** [2026], UCL — *Disentangling the Roles of Task, Language, and Model*
-* **Mikhail Kim** [2026], UCL — *Composable Adapters*
-
 ---
 
 ## Alumni
@@ -44,7 +37,16 @@ author_profile: true
   *Thesis:* [Injecting Inductive Biases into Distributed Representations of Text](https://www.repository.cam.ac.uk/handle/1810/330972)
 
 ### MSc and Honours
-
+* **Piotr Wilam** [MSc, 2026], University College London <br>
+  *Thesis:* Grammatical composition does not order the circuits of a code model: depth and formation time across training
+* **Mikhail Kim** [MSc, 2026], University College London <br>
+  *Thesis:* Model Diffing via Learnable Sparse Neuron Modulation
+* **Xuanhao Gu** [MSc, 2026], University College London <br>
+  *Thesis:* Natural Language to First-Order Logic with Small Language Models: Fine-Tuning and Inference-Time Scaling
+* **Thang Vu** [MSc, 2026], University College London <br>
+  *Thesis:* Grounded Code Generation for Text-to-SQL
+* **Niall Dalton** [MSc, 2026], University College London <br>
+  *Thesis:* How Post-Training Influences Verbalized Algorithmic Computation in Language Models
 * **Dhruv Anand** [MSc, 2025], Monash University <br>
   *Thesis:* [Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595)
 * **James Garnham** [Honours, 2025], Monash University <br>
@@ -69,9 +71,9 @@ author_profile: true
   *Thesis:* [Self-supervised Rewiring of Pre-trained Speech Encoders](https://aclanthology.org/2022.findings-emnlp.141/)
 * **Jirarote Jirasirikul** [MSc, 2021], Monash University <br>
   *Thesis:* Fine-tuning Pretrained Language Models for Biomedical Tasks
-* **Aiswarya Kaladharan** [MSc, 2020], University College London (UCL) <br>
+* **Aiswarya Kaladharan** [MSc, 2020], University College London <br>
   *Thesis:* Privacy Preserving Neural Representation for Speech Audio
-* **Lan Zhang** [MSc, 2020], University College London (UCL) → PhD at University of Manchester  <br>
+* **Lan Zhang** [MSc, 2020], University College London  → PhD at University of Manchester  <br>
   *Thesis:* [Understanding the Latent Space in Variational Autoencoders](https://aclanthology.org/2021.repl4nlp-1.14/)
-* **Lei Yang** [MSc, 2020], University College London (UCL)  <br>
+* **Lei Yang** [MSc, 2020], University College London <br>
   *Thesis:* Generating Recipes with Deep Neural Models
