@@ -9,5 +9,5 @@ authors: 'Dhruv Anand, Ehsan Shareghi'
 venue: 'Empirical Methods in Natural Language Processing (EMNLP)'
 pdf: 'https://arxiv.org/abs/2512.20595'
 paperurl: 'https://arxiv.org/abs/2512.20595'
-code: '.'
+code: 'https://github.com/dana-23/cube-bench'
 ---
