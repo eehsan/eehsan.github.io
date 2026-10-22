@@ -26,7 +26,7 @@ News
 ======
 
 <div style="line-height:1.8;">
-☘ Congratulations to Jiuzhou for completing her PhD on Enhancing Inference-Time Reliability of Large Language Models.
+☘ Congratulations to Jiuzhou for completing her PhD on Enhancing Inference-Time Reliability of Large Language Models.<br>
 ☘ Congratulations to Minghan, Dhruv, and Ramya for their papers accepted to EMNLP/-Findings!<br>
 ☘ Congratulations to Zack for his paper on LLM Safety accepted to COLM!<br>
 ☘ Excited to share that we are awarded an ARC Linkage to develop AI technology for Triage and Legal Issue Analysis in Community Legal Centres in Australia!<br>
