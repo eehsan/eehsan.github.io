@@ -18,22 +18,21 @@ author_profile: true
   *Thesis:* Measuring and Advancing the Logical Reasoning Capabilities of Language Models
 * **Dongwon (Kelvin) Ryu** [Writing Thesis], Monash University <br>
   *Thesis:* Leveraging Inductive Biases for Efficient Exploration in Text-Based Virtual Environments
-* **Jiuzhou Han** [Under Examination], Monash University <br>
-  *Thesis:* Enhancing Inference-Time Reliability of Large Language Models
 
 ---
 
 ## Alumni
 
 ### PhD
-
+* **Jiuzhou Han** [PhD, 2026], Monash University (with Wray Buntine)<br>
+  *Thesis:* Enhancing Inference-Time Reliability of Large Language Models
 * **Yinhong Liu** [PhD, 2026], University of Cambridge (with Nigel Collier) <br>
   *Thesis:* [Advancing Text Evaluation in the Era of LLMs: Toward Robust Metrics, Consistency, and Human Alignment](https://www.repository.cam.ac.uk/bitstreams/7d9a06ed-1ca3-432d-b963-0bae2709edd9/download)
-* **Yi Zhu** [PhD, 2025], University of Cambridge (with Anna Korhonen, Ivan Vulić) → Research Scientist, RekaAI  <br>
+* **Yi Zhu** [PhD, 2025], University of Cambridge (with Anna Korhonen, Ivan Vulić)<br>
   *Thesis:* [Multi-Lingual Learning with Few Labels](https://www.repository.cam.ac.uk/handle/1810/402342)
-* **Jinming (Michelle) Zhao** [PhD, 2024], Monash University (with Reza Haffari) → Applied Scientist, Amazon AGI <br>
+* **Jinming (Michelle) Zhao** [PhD, 2024], Monash University (with Reza Haffari) <br>
   *Thesis:* [Advancing Data-Constrained Spoken Language Translation](https://bridges.monash.edu/articles/thesis/Advancing_Data-Constrained_Spoken_Language_Translation/29097632?file=54638156)
-* **Victor Prokhorov** [PhD, 2021], University of Cambridge (with Nigel Collier) → Research Scientist, Huawei <br>
+* **Victor Prokhorov** [PhD, 2021], University of Cambridge (with Nigel Collier) <br>
   *Thesis:* [Injecting Inductive Biases into Distributed Representations of Text](https://www.repository.cam.ac.uk/handle/1810/330972)
 
 ### MSc and Honours
@@ -53,12 +52,12 @@ author_profile: true
   *Thesis:* [Could language models win the International Linguistics Olympiad?](https://aclanthology.org/2026.conll-main.28/)
 * **Alan Tseng** [MSc, 2025], Monash University <br>
   *Thesis:* AI Evaluation Benchmarks for Australian Contract Law
-* **Jack Pham** [Honours, 2025], Monash University → PhD at Macquarie University <br>
+* **Jack Pham** [Honours, 2025], Monash University <br>
   *Thesis:* Could LLMs self-paraphrasing improve Mathematical Reasoning performance?
-* **Minh (Hieu) Nguyen** [MSc, 2024], Monash University → PhD at Monash <br>
+* **Minh (Hieu) Nguyen** [MSc, 2024], Monash University <br>
   *Thesis:* [One STEP at a time: Language Agents are Stepwise Planners](https://arxiv.org/abs/2411.08432)
   🏆 Winner of Monash Dux Award 2025
-* **Long Hei Matthew Lam** [MSc, 2024], Monash University → Applied Scientist, OpenStream AI <br>
+* **Long Hei Matthew Lam** [MSc, 2024], Monash University <br>
   *Thesis:* [A Closer Look at Logical Reasoning with LLMs: The Choice of Tool Matters](https://aclanthology.org/2024.alta-1.4/)
   🏆 Outstanding Paper Award at ALTA 2024
 * **Adrian Theuma** [MSc, 2023], Monash University <br>
@@ -67,13 +66,13 @@ author_profile: true
   *Thesis:* A Novel Biomedical Graph-Text Dataset and Its applications
 * **Xinyi (Tina) Li** [Honours, 2022], Monash University <br>
   *Thesis:* In-Context Knowledge Elicitation from Large Language Models
-* **Hao Yang** [MSc, 2022], Monash University → PhD at Monash University <br>
+* **Hao Yang** [MSc, 2022], Monash University <br>
   *Thesis:* [Self-supervised Rewiring of Pre-trained Speech Encoders](https://aclanthology.org/2022.findings-emnlp.141/)
 * **Jirarote Jirasirikul** [MSc, 2021], Monash University <br>
   *Thesis:* Fine-tuning Pretrained Language Models for Biomedical Tasks
 * **Aiswarya Kaladharan** [MSc, 2020], University College London <br>
   *Thesis:* Privacy Preserving Neural Representation for Speech Audio
-* **Lan Zhang** [MSc, 2020], University College London  → PhD at University of Manchester  <br>
+* **Lan Zhang** [MSc, 2020], University College London <br>
   *Thesis:* [Understanding the Latent Space in Variational Autoencoders](https://aclanthology.org/2021.repl4nlp-1.14/)
 * **Lei Yang** [MSc, 2020], University College London <br>
   *Thesis:* Generating Recipes with Deep Neural Models
