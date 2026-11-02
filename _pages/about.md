@@ -12,7 +12,7 @@ Hello! I am an Associate Professor in the Department of Computer Science at UCL 
 Future Students
 ======
 
-I am looking for self-motivated Ph.D students to work on any of the below topics or related areas (you may also want to check my publications in the last 2-3 years). For details on CS department PhD application rounds see<a href="https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-science-mphilphd-0">here</a>. I am not taking interns.
+I am looking for self-motivated Ph.D students to work on any of the below topics or related areas (you may also want to check my publications in the last 2-3 years). For details on CS department PhD application rounds see <a href="https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-science-mphilphd-0">here</a>. I am not taking interns.
 
 Present and Past Research Areas
 ======
