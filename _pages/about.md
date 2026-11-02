@@ -9,6 +9,11 @@ redirect_from:
 
 Hello! I am an Associate Professor in the Department of Computer Science at UCL and a member of the UCL NLP group. I work on predictive models for language (text and speech). In the more distant past, I worked on integrating nonparametric models and compressed data structures for predictive models on large volumes of text. More recently, I worked on multilingual NLP and Bayesian learning of neural models with their application in low-resource conditions. Since 2020 I have been working on various speech and text models in understanding, translation, and reasoning tasks. While in principle the solutions we investigate are agnostic to the underlying models, we leverage foundational large language models (for text and speech) as much as possible. We have also been investigating various shortcomings of foundation models.
 
+Future Students
+======
+
+I am looking for self-motivated Ph.D students to work on any of the below topics or related areas (you may also want to check my publications in the last 2-3 years). For details on CS department PhD application rounds see<a href="https://www.ucl.ac.uk/study/prospective-students/graduate/courses/computer-science-mphilphd-0"> here</a>. I am not taking interns.
+
 Present and Past Research Areas
 ======
 
@@ -55,8 +60,3 @@ News
 ☘ <a href="https://victorprokhorov.github.io">Victor Prokhorov</a> successfully defended his PhD thesis on <a href="https://www.repository.cam.ac.uk/handle/1810/330972">Injecting Inductive Biases into Distributed Representations of Text</a>.<br>
 ☘ Several papers accepted in 2021: 1xACL, 1xEACL, 1xNAACL, 2xEMNLP, 2xRepL4NLP.
 </div>
-
-Future Students
-======
-
-I am looking for self-motivated Ph.D students to work on any of the above topics or related areas (you may also want to check my publications in the last 2-3 years).
