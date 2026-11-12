@@ -35,7 +35,9 @@ h2.pub-section { margin-top: 1.5em; font-family: "Papyrus", "Palatino", serif; }
 {% for category in site.publication_category %}
   {% assign title_shown = false %}
   {% for post in site.publications reversed %}
-    {% if post.category != category[0] %}{% continue %}{% endif %}
+    {% if category[0] == "conferences" %}
+      {% unless post.category == "conferences" or post.category == "selected" %}{% continue %}{% endunless %}
+    {% elsif post.category != category[0] %}{% continue %}{% endif %}
     {% unless title_shown %}
       <h2 class="pub-section">{{ category[1].title }}</h2><hr />
       {% assign title_shown = true %}
