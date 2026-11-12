@@ -7,7 +7,7 @@ date: 2026-08-22
 year: '2026'
 authors: 'Dhruv Anand, Ehsan Shareghi'
 venue: 'Empirical Methods in Natural Language Processing (EMNLP)'
-pdf: 'https://arxiv.org/abs/2512.20595'
-paperurl: 'https://arxiv.org/abs/2512.20595'
+pdf: 'https://aclanthology.org/2026.emnlp-main.1259.pdf'
+paperurl: 'https://aclanthology.org/2026.emnlp-main.1259.pdf'
 code: 'https://github.com/dana-23/cube-bench'
 ---
