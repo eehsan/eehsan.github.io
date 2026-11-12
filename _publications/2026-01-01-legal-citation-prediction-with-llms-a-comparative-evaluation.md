@@ -1,7 +1,7 @@
 ---
 title: 'Legal Citation Prediction with LLMs: A Comparative Evaluation of Instruction Tuning, Retrieval, and Jurisdiction-Specific Pre-training on the AusLaw Citation Benchmark'
 collection: publications
-category: conferences
+category: selected
 permalink: /publication/2026-01-01-legal-citation-prediction-with-llms-a-comparative-evaluation
 date: 2026-01-01
 year: '2026'
