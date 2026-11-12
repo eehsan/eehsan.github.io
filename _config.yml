@@ -83,12 +83,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  notes:
-    title: 'Notes and Working Papers'
   selected:
     title: 'Selected Papers'
   conferences:
     title: 'All Papers'
+  notes:
+    title: 'Notes and other things'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
